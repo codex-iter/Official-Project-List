@@ -1,6 +1,41 @@
 # Official-Project-List
 
-## This is the official project list.
+## 2017 List
+
+### Minor
+
+
+* [Debashish Mishra](https://github.com/Zanark)
+```
+Browser plugin/extension to logout of all logged in accounts in one click.
+```
+
+* [Pawan Kumar](https://github.com/Pawan0411)
+```
+A system that can show ICC World Championships Trophy, Twenty20, IPL, or FIFA Worldcup,
+FIFA Women's World Cup, ISL statistics for a player for a given year.
+```
+
+### MAJOR
+
+
+* [Aniket Prasad](https://github.com/aniketdgp)
+```
+Digital queueing system using QR codes to avoid standing in a queue.
+```
+
+* [Akanksha Pattnaik](https://github.com/akapattnaik)
+```
+Website to play sudoku.
+Features registrations, difficulty levels, error detection, solution, timer, hints and worldwide rank.
+```
+
+* [Ashis Kumar Padhi](https://github.com/akp1881997)
+```
+Simple password manager, implementing encryption, to keep track of all logins.
+```
+
+## ACM Student Chapter List 2016-17
 
 * ### Information Security using Steganography over Cryptography
 
