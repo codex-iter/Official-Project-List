@@ -2,41 +2,24 @@
 
 ## 2017 List
 
-### Minor
+## Minor
 
 
-* [Debashish Mishra](https://github.com/Zanark)
-```
-Browser plugin/extension to logout of all logged in accounts in one click.
-```
-
-* [Pawan Kumar](https://github.com/Pawan0411)
-```
-A system that can show ICC World Championships Trophy, Twenty20, IPL, or FIFA Worldcup,
-FIFA Women's World Cup, ISL statistics for a player for a given year.
-```
-* [Anwesh Panda](https://github.com/Pandacowbat)
-```Facebook Messenger ChatBot, for basic interaction, getting instant news by providing queries, reminders, weather notifications, hazard news notifications, fun games like trivia, and a casino system with games like coin flip, blackjack and dice, where the user can bet a specific amount of money.```
+* ### Browser plugin/extension to logout of all logged in accounts in one click.
 
 
-### MAJOR
+* ### A system that can show ICC World Championships Trophy, Twenty20, IPL, or FIFA Worldcup, FIFA Women's World Cup, ISL statistics for a player for a given year.
+
+* ### Facebook Messenger ChatBot, for basic interaction, getting instant news by providing queries, reminders, weather notifications, hazard news notifications, fun games like trivia, and a casino system with games like coin flip, blackjack and dice, where the user can bet a specific amount of money.
+
+## MAJOR
 
 
-* [Aniket Prasad](https://github.com/aniketdgp)
-```
-Digital queueing system using QR codes to avoid standing in a queue.
-```
+* ### Digital queueing system using QR codes to avoid standing in a queue.
 
-* [Akanksha Pattnaik](https://github.com/akapattnaik)
-```
-Website to play sudoku.
-Features registrations, difficulty levels, error detection, solution, timer, hints and worldwide rank.
-```
+* ### Website to play sudoku. Features registrations, difficulty levels, error detection, solution, timer, hints and worldwide rank.
 
-* [Ashis Kumar Padhi](https://github.com/akp1881997)
-```
-Simple password manager, implementing encryption, to keep track of all logins.
-```
+* ### Simple password manager, implementing encryption, to keep track of all logins.
 
 ## ACM Student Chapter List 2016-17
 
