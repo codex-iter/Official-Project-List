@@ -1,11 +1,34 @@
 # Official-Project-List
 
-* **Telegram bot** - To greet new members, simple moderation work, fetch Github links, wikipedia links.
+- **Telegram bot** - To greet new members, simple moderation work.
+  - Maintainers : 
+    - [Omm Mishra](https://github.com/ommmishra/)
+    - [Swagat Parija](https://github.com/swagat5147)        
+  - Links : 
+    - https://github.com/codex-iter/codex-bot
+    - https://github.com/ommmishra/codex-bot
+  
+- **Codex Official Website** - Offical website for Codex
+  - Maintainers : 
+    - [Debashish Mishra](https://github.com/Zanark/)
+    - [A Rupesh](https://github.com/rupesh1310)
+  - Links : 
+    - https://github.com/codex-iter/codex-iter.github.io
 
-* **Browser plugin/extension to logout of all logged in accounts in one click.**
+- **Wallgen** - A wallpaper generator
+  - Maintainers : 
+    - [Subhrajit Prusty](https://github.com/SubhrajitPrusty)
+  - Links :
+    - https://github.com/SubhrajitPrusty/wallgen
 
-* **A system that can show ICC World Championships Trophy, Twenty20, IPL, or FIFA Worldcup, FIFA Women's World Cup, ISL statistics for a player for a given year.**
-
-* **Facebook Messenger ChatBot, for basic interaction, getting instant news by providing queries, reminders, weather notifications, hazard news notifications, fun games like trivia, and a casino system with games like coin flip, blackjack and dice, where the user can bet a specific amount of money.**
-
-* **Codex Official Website**
+- **YCL** - Control youtube from the commandline
+  - Maintainers : 
+    - [Subhrajit Prusty](https://github.com/SubhrajitPrusty)
+  - Links :
+    - https://github.com/SubhrajitPrusty/ycl
+    
+- **NLT-Github** - Never leave the terminal for Github
+  - Maintainers : 
+    - [Dibya Ranjan Jena](https://github.com/dibyasonu)
+  - Links :
+    - https://github.com/dibyasonu/nlt-github/
