@@ -39,3 +39,9 @@
     - [Pritam Kar](https://github.com/pikaz143)
   - Links :
     - https://github.com/MadhabaPatra/Link-Aggregator
+- **Price-Notifier** - A wishlist extension which notifies price changes.
+  - Maintainers :
+    - [Jyoti Jayadeep](https://github.com/obli99)
+    - [Sandip Nayak](https://github.com/SandipNayak)
+  - Links :
+    - Https://GitHub.com/obli99/wle
