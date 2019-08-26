@@ -46,7 +46,7 @@
   - Links :
     - Https://GitHub.com/obli99/wle
     
-- **Scientific-Calculator** - A scientific calculator.
+- **Scientific-Calci** - A scientific calculator.
   - Maintainers :
     - [Abhishek Kumar](https://github.com/iamAbhishekkumar)
   - Links :
