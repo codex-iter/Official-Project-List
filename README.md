@@ -45,3 +45,9 @@
     - [Sandip Nayak](https://github.com/SandipNayak)
   - Links :
     - Https://GitHub.com/obli99/wle
+ - **Scientific-Calculator** 
+  - Maintainer :
+    -[Abhishek Kumar](https://github.com/iamAbhishekkumar)
+    
+  - Links :
+    - https://github.com/iamAbhishekkumar/Scientific-calculator   
