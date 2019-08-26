@@ -51,3 +51,10 @@
     - [Abhishek Kumar](https://github.com/iamAbhishekkumar)
   - Links :
     - https://github.com/iamAbhishekkumar/Scientific-calculator
+
+- **Connect-3**- A simple game similar to TicTacToe.
+  - Maintainers :
+    - [Sahil Agarwal](https://github.com/agarwalsahil0210)
+    - [Suvojit Barrick](https://github.com/SuvojitBarick)
+  - Links :
+    - https://github.com/agarwalsahil0210/Connect-3
