@@ -45,3 +45,9 @@
     - [Sandip Nayak](https://github.com/SandipNayak)
   - Links :
     - Https://GitHub.com/obli99/wle
+- **Hangman-Game** - A simple hangman game with GUI .
+  - Maintainers :
+    - [Tarique Nasar](https://github.com/NasarTarique)
+  - Links :
+    - https://github.com/NasarTarique/HangmanGame
+   
