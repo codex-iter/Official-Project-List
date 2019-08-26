@@ -51,7 +51,13 @@
     - [Abhishek Kumar](https://github.com/iamAbhishekkumar)
   - Links :
     - https://github.com/iamAbhishekkumar/Scientific-calculator
-
+    
+- **2048 Game** - The Game of Intellectuals.
+  - Maintainers :
+    - [Sudeep Rn. Swain](https://github.com/Sudeep25022000)
+  - Links :
+    - https://github.com/Sudeep25022000/2048-The-Game-of-Intellectuals
+    
 - **Connect-3**- A simple game similar to TicTacToe.
   - Maintainers :
     - [Sahil Agarwal](https://github.com/agarwalsahil0210)
