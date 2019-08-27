@@ -43,6 +43,7 @@
   - Maintainers :
     - [Jyoti Jayadeep](https://github.com/obli99)
     - [Sandip Nayak](https://github.com/SandipNayak)
+    - [Sayantan paul](https://github.com/belikesayantan)
   - Links :
     - Https://GitHub.com/obli99/wle
     
