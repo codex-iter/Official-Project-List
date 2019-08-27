@@ -43,8 +43,17 @@
   - Maintainers :
     - [Jyoti Jayadeep](https://github.com/obli99)
     - [Sandip Nayak](https://github.com/SandipNayak)
+    - [Sayantan paul](https://github.com/belikesayantan)
   - Links :
     - Https://GitHub.com/obli99/wle
+
+- **Hangman-Game** - A simple hangman game with GUI .
+  - Maintainers :
+    - [Tarique Nasar](https://github.com/NasarTarique)
+  - Links :
+    - https://github.com/NasarTarique/HangmanGame
+   
+
     
 - **Scientific-Calci** - A scientific calculator.
   - Maintainers :
@@ -58,9 +67,18 @@
   - Links :
     - https://github.com/Sudeep25022000/2048-The-Game-of-Intellectuals
     
+
 - **Connect-3**- A simple game similar to TicTacToe.
   - Maintainers :
     - [Sahil Agarwal](https://github.com/agarwalsahil0210)
     - [Suvojit Barrick](https://github.com/SuvojitBarick)
   - Links :
     - https://github.com/agarwalsahil0210/Connect-3
+
+- **Expense Tracker** - Track every penny you spend.
+  - Maintainers :
+    - [Nehal Kumar Singh](https://github.com/geekyNehal)
+  - Link :
+    - https://github.com/geekyNehal/ExpenseTrackerApp
+
+
