@@ -58,3 +58,8 @@
   - Links :
     - https://github.com/Sudeep25022000/2048-The-Game-of-Intellectuals
     
+- **Expense Tracker** - Track every penny you spend.
+  - Maintainers :
+    - [Nehal Kumar Singh](https://github.com/geekyNehal)
+  - Link :
+    - https://github.com/geekyNehal/ExpenseTrackerApp
