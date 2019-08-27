@@ -63,3 +63,9 @@
     - [Nehal Kumar Singh](https://github.com/geekyNehal)
   - Link :
     - https://github.com/geekyNehal/ExpenseTrackerApp
+
+- **Job Finder** - Get the company you wanna go, right on your Terminal.
+  - Maintainer  :
+    - [Sayantan Paul](https://github.com/belikesayantan)
+  - Link  :
+    - https://github.com/belikesayantan/Job-finder
