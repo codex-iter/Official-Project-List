@@ -46,6 +46,14 @@
     - [Sayantan paul](https://github.com/belikesayantan)
   - Links :
     - Https://GitHub.com/obli99/wle
+
+- **Hangman-Game** - A simple hangman game with GUI .
+  - Maintainers :
+    - [Tarique Nasar](https://github.com/NasarTarique)
+  - Links :
+    - https://github.com/NasarTarique/HangmanGame
+   
+
     
 - **Scientific-Calci** - A scientific calculator.
   - Maintainers :
@@ -64,3 +72,4 @@
     - [Nehal Kumar Singh](https://github.com/geekyNehal)
   - Link :
     - https://github.com/geekyNehal/ExpenseTrackerApp
+
