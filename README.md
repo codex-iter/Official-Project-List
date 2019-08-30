@@ -90,5 +90,9 @@
   - Link :
     - https://github.com/geekyNehal/ExpenseTrackerApp
 
-
+- **Motion Detector** - Every Motion Counts
+  - Maintainers :
+    - [Adarsh Padhi](https://github.com/adarsh1405)
+  - Link :
+    - https://github.com/adarsh1405/Motion-Detector
 
