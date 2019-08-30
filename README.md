@@ -33,6 +33,15 @@
   - Links :
     - https://github.com/dibyasonu/nlt-github/
 
+    
+- **Group-Tcp-Mesenger** - Have group chat on a local network
+  - Maintainers : 
+    - [Yash Gupta](https://github.com/yash9685)
+    - [Rohan Verma](https://github.com/MartyMiniac)
+  - Links :
+    - https://github.com/MartyMiniac/GroupTcpMesenger
+
+
 - **LinKKaro** - Make All Your Link Together (LinkTree-clone)
   - Maintainers : 
     - [Madhaba Patra](https://github.com/MadhabaPatra)
@@ -80,5 +89,6 @@
     - [Nehal Kumar Singh](https://github.com/geekyNehal)
   - Link :
     - https://github.com/geekyNehal/ExpenseTrackerApp
+
 
 
