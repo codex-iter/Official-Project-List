@@ -89,6 +89,14 @@
     - [Nehal Kumar Singh](https://github.com/geekyNehal)
   - Link :
     - https://github.com/geekyNehal/ExpenseTrackerApp
+    
+- **Insta Hashtag Maker** - An app that suggests trending hashtags on instagram.
+  - Maintainers :
+    - [Suvojit Barick](https://github.com/SuvojitBarick)
+    - [Abhishek Kumar](https://github.com/iamAbhishekkumar)
+    - [Sahil Agarwal](https://github.com/agarwalsahil0210)
+  - Link :
+    - https://github.com/iamAbhishekkumar/insta_hastag_maker
 
 
 
