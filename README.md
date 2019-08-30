@@ -32,3 +32,10 @@
     - [Dibya Ranjan Jena](https://github.com/dibyasonu)
   - Links :
     - https://github.com/dibyasonu/nlt-github/
+    
+- **Group-Tcp-Mesenger** - Have group chat on a local network
+  - Maintainers : 
+    - [Yash Gupta](https://github.com/yash9685)
+    - [Rohan Verma](https://github.com/MartyMiniac)
+  - Links :
+    - https://github.com/MartyMiniac/GroupTcpMesenger
