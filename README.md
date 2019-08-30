@@ -108,3 +108,10 @@
     - [Subham Sagar Paira](https://github.com/subhamsagar524)
   - Links :
     - https://github.com/subhamsagar524/VBEmail
+
+- **Chess Game** - Chess game to play using server.
+  - Maintainers :
+    - [Ayush Kejariwal](https://github.com/KejariwalAyush)
+    - [Rijul Das](https://github.com/RIJULDAS)
+  - Link :
+    - https://github.com/KejariwalAyush/Chess-Game
