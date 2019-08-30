@@ -115,3 +115,11 @@
     - [Rijul Das](https://github.com/RIJULDAS)
   - Link :
     - https://github.com/KejariwalAyush/Chess-Game
+    
+- **Insta Hashtag Maker** - An app that suggests trending hashtags on instagram.
+  - Maintainers :
+    - [Suvojit Barick](https://github.com/SuvojitBarick)
+    - [Abhishek Kumar](https://github.com/iamAbhishekkumar)
+    - [Sahil Agarwal](https://github.com/agarwalsahil0210)
+  - Link :
+    - https://github.com/iamAbhishekkumar/insta_hastag_maker
