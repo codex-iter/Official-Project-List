@@ -89,12 +89,17 @@
     - [Nehal Kumar Singh](https://github.com/geekyNehal)
   - Link :
     - https://github.com/geekyNehal/ExpenseTrackerApp
-    
+
+- **Motion Detector** - Every Motion Counts
+  - Maintainers :
+    - [Adarsh Padhi](https://github.com/adarsh1405)
+  - Link :
+    - https://github.com/adarsh1405/Motion-Detector
+
 - **Govtpolicy_page** - Website for Government policies.
   - Maintainers :
      - [Sweta Snigdha Sahoo](https://github.com/swetasahoo29)
      - [Ankita Satapathy](http://github.com/ankita-04)
   - Link :
      - https://github.com/swetasahoo29/Govtpolicy_page
-
 
