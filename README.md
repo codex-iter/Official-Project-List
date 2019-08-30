@@ -102,4 +102,9 @@
      - [Ankita Satapathy](http://github.com/ankita-04)
   - Link :
      - https://github.com/swetasahoo29/Govtpolicy_page
-
+     
+- **VBEmail** - Voice-based email for visually challenged.
+  - Maintainers : 
+    - [Subham Sagar Paira](https://github.com/subhamsagar524)
+  - Links :
+    - https://github.com/subhamsagar524/VBEmail
