@@ -90,5 +90,8 @@
   - Link :
     - https://github.com/geekyNehal/ExpenseTrackerApp
 
-
-
+- **VBEmail** - Voice-based email for visually challenged.
+  - Maintainers : 
+    - [Subham Sagar Paira](https://github.com/subhamsagar524)
+  - Links :
+    - https://github.com/subhamsagar524/VBEmail
