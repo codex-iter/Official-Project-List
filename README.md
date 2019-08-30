@@ -33,6 +33,15 @@
   - Links :
     - https://github.com/dibyasonu/nlt-github/
 
+    
+- **Group-Tcp-Mesenger** - Have group chat on a local network
+  - Maintainers : 
+    - [Yash Gupta](https://github.com/yash9685)
+    - [Rohan Verma](https://github.com/MartyMiniac)
+  - Links :
+    - https://github.com/MartyMiniac/GroupTcpMesenger
+
+
 - **LinKKaro** - Make All Your Link Together (LinkTree-clone)
   - Maintainers : 
     - [Madhaba Patra](https://github.com/MadhabaPatra)
@@ -80,6 +89,25 @@
     - [Nehal Kumar Singh](https://github.com/geekyNehal)
   - Link :
     - https://github.com/geekyNehal/ExpenseTrackerApp
+
+- **Motion Detector** - Every Motion Counts
+  - Maintainers :
+    - [Adarsh Padhi](https://github.com/adarsh1405)
+  - Link :
+    - https://github.com/adarsh1405/Motion-Detector
+
+- **Govtpolicy_page** - Website for Government policies.
+  - Maintainers :
+     - [Sweta Snigdha Sahoo](https://github.com/swetasahoo29)
+     - [Ankita Satapathy](http://github.com/ankita-04)
+  - Link :
+     - https://github.com/swetasahoo29/Govtpolicy_page
+     
+- **VBEmail** - Voice-based email for visually challenged.
+  - Maintainers : 
+    - [Subham Sagar Paira](https://github.com/subhamsagar524)
+  - Links :
+    - https://github.com/subhamsagar524/VBEmail
 
 - **Chess Game** - Chess game to play using server.
   - Maintainers :
