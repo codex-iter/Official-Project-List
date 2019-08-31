@@ -142,3 +142,10 @@
     - [Satyapragyan Das](https://github.com/SatyapragyanDas)
   - Link :
     - https://github.com/PratikSonal/Bingo
+    
+- **Scrum-Management** - A website beneficial for amateurs entering into Codex to make their tasks easier.
+  - Maintainers :
+    - [Harshita Raj](https://github.com/Harshita248)
+    - [Kajal Kumari](https://github.com/kajalkumaribps)
+  - Link :
+    - https://github.com/Harshita248/Scrum-Management.git
