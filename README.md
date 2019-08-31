@@ -135,3 +135,10 @@
     - [Shubham Kumar](https://github.com/shubham171019)
   - Link :
     - https://github.com/avinabaray/Telegram-Bot
+    
+- **Bingo** - A simple game of chance!
+  - Maintainers :
+    - [Pratik Sonal](https://github.com/PratikSonal)
+    - [Satyapragyan Das](https://github.com/SatyapragyanDas)
+  - Link :
+    - https://github.com/PratikSonal/Bingo
