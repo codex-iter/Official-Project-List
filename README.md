@@ -128,3 +128,10 @@
     - [Sahil Agarwal](https://github.com/agarwalsahil0210)
   - Link :
     - https://github.com/iamAbhishekkumar/insta_hastag_maker
+
+- **Telegram Bot** - A new Telegram Bot in place of Rose to handle things better.
+  - Maintainers :
+    - [Avinaba Ray](https://github.com/avinabaray)
+    - [Shubham Kumar](https://github.com/shubham171019)
+  - Link :
+    - https://github.com/avinabaray/Telegram-Bot
