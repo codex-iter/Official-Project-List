@@ -89,6 +89,9 @@
     - [Nehal Kumar Singh](https://github.com/geekyNehal)
   - Link :
     - https://github.com/geekyNehal/ExpenseTrackerApp
+- **TicTacToe** - The game of TicTacToe.
+  - Maintainer :
+    - [Shubhanjan Dash](https://github.com/monkas24x7)
 
 
 
