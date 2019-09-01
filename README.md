@@ -163,4 +163,10 @@
     - [Nishant Choudhary](https://github.com/nishantc7)
   - Link :
     - https://github.com/nishantc7/Anime_Synopsis
-
+    
+- **VisuAlgorithm** - Algorithm Visualizer- A Interactive Online Platform that Visualizes Algorithms
+  - Maintainers :
+    - [Madhaba Patra](https://github.com/MadhabaPatra)
+    - [Subham Sagar Paira](https://github.com/subhamsagar524)
+  - Link :
+    - https://github.com/MadhabaPatra/VisuAlgorithm
