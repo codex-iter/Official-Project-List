@@ -149,3 +149,9 @@
     - [Kajal Kumari](https://github.com/kajalkumaribps)
   - Link :
     - https://github.com/Harshita248/Scrum-Management.git
+- **VisuAlgorithm** - Algorithm Visualizer- A Interactive Online Platform that Visualizes Algorithms
+  - Maintainers :
+    - [Madhaba Patra](https://github.com/MadhabaPatra)
+    - [Subham Sagar Paira](https://github.com/subhamsagar524)
+  - Link :
+    - https://github.com/MadhabaPatra/VisuAlgorithm
