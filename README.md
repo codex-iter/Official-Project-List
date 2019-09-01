@@ -149,3 +149,10 @@
     - [Kajal Kumari](https://github.com/kajalkumaribps)
   - Link :
     - https://github.com/Harshita248/Scrum-Management.git
+- **Backup Management** -A software that works on client/server architecture for extracting backup data copies.
+  - Maintainers :
+    - [Sudeep Rn. Swain](https://github.com/Sudeep25022000)
+    - [Aditya Gupta](https://github.com/xcyberpunkx0)    
+  - Links :
+    - https://github.com/Sudeep25022000/Backup-Manager
+    
