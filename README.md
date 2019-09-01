@@ -150,6 +150,14 @@
   - Link :
     - https://github.com/Harshita248/Scrum-Management.git
     
+- **Attendance Manager** - A blockchain integrated attendance manager with in-built analytics.
+  - Maintainers :
+    - [Parag Bhattacharjee](https://github.com/parag357)
+    - [Gyana Sahoo](https://github.com/TheSpeedX)
+    - [Jashaswee Jena](https://github.com/jashasweejena)
+  - Link :
+    - https://github.com/Parag357/Attendance-Manager
+    
 - **Anime Synopsis** - A simple Python webscraper for finding out the synopsis of a anime.
   - Maintainers :
     - [Nishant Choudhary](https://github.com/nishantc7)
