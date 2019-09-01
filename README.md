@@ -157,3 +157,10 @@
     - [Jashaswee Jena](https://github.com/jashasweejena)
   - Link :
     - https://github.com/Parag357/Attendance-Manager
+    
+- **Anime Synopsis** - A simple Python webscraper for finding out the synopsis of a anime.
+  - Maintainers :
+    - [Nishant Choudhary](https://github.com/nishantc7)
+  - Link :
+    - https://github.com/nishantc7/Anime_Synopsis
+
