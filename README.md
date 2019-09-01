@@ -180,11 +180,11 @@
 
 - **Android Call Dailer** -Simple android app to place calls.
   - Maintainers :
-   - [Ayush Sharma] (https://github.com/ayush933)
+    - [Ayush Sharma] (https://github.com/ayush933)
   - Links :
-   - https://github.com/ayush933/Call-Dialer
+    - https://github.com/ayush933/Call-Dialer
    
-   - **NOTEPAD** - A multi functional text editor.
+- **NOTEPAD** - A multi functional text editor.
   - Maintainers :
     - [Tapas Sahu](https://github.com/Tapas14102000)
     - [Aditya Yadav](https://github.com/Aditya286)
