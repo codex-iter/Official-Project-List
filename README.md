@@ -190,3 +190,11 @@
     - [Aditya Yadav](https://github.com/Aditya286)
   - Link :
     - https://github.com/Tapas14102000/minorproject
+    
+- **Snakes n Ladders** - Just a casual game of Snakes and Ladders.
+  - Maintainers :
+    - [Subhransu Dash](https://github.com/Ashis-007)
+    - [Sanket KN](https://github.com/SanketKN)
+  - Link :
+    - https://github.com/Ashis-007/ProjectSnL
+    
