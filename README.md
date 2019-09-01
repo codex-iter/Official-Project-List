@@ -149,3 +149,10 @@
     - [Kajal Kumari](https://github.com/kajalkumaribps)
   - Link :
     - https://github.com/Harshita248/Scrum-Management.git
+    
+- **Anime Synopsis** - A simple Python webscraper for finding out the synopsis of a anime.
+  - Maintainers :
+    - [Nishant Choudhary](https://github.com/nishantc7)
+  - Link :
+    - https://github.com/nishantc7/Anime_Synopsis
+
