@@ -180,7 +180,7 @@
 
 - **Android Call Dailer** -Simple android app to place calls.
   - Maintainers :
-    - [Ayush Sharma] (https://github.com/ayush933)
+    - [Ayush Sharma](https://github.com/ayush933)
   - Links :
     - https://github.com/ayush933/Call-Dialer
    
