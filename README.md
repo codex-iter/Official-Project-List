@@ -198,3 +198,9 @@
   - Link :
     - https://github.com/Ashis-007/ProjectSnL
     
+- **Sudoku Game** - A Sudoku Game with graphics.
+   - Maintainer:
+     - [Sourav Bera](https://github.com/SouravBear8850)
+   - Link:
+     - https://github.com/SouravBear8850/Sudokugame
+    
