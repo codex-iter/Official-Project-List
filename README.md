@@ -197,4 +197,8 @@
     - [Sanket KN](https://github.com/SanketKN)
   - Link :
     - https://github.com/Ashis-007/ProjectSnL
-    
+ - **Sudoku Game** - A intresting sudoku game 
+   - Maintainers :
+      - [Sourav Bera](https://github.com/SouravBear8850)
+   - Link:
+      - https://github.com/SouravBear8850/Sudokugame
