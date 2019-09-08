@@ -174,7 +174,8 @@
 - **Backup Management** -A software that works on client/server architecture for extracting backup data copies.
   - Maintainers :
     - [Sudeep Rn. Swain](https://github.com/Sudeep25022000)
-    - [Aditya Gupta](https://github.com/xcyberpunkx0)    
+    - [Aditya Gupta](https://github.com/xcyberpunkx0) 
+    - [A S V K Vinayak](https://github.com/ASVKVINAYAK)   
   - Links :
     - https://github.com/Sudeep25022000/Backup-Manager
 
