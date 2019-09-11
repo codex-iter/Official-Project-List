@@ -62,8 +62,6 @@
   - Links :
     - https://github.com/NasarTarique/HangmanGame
    
-
-    
 - **Scientific-Calci** - A scientific calculator.
   - Maintainers :
     - [Abhishek Kumar](https://github.com/iamAbhishekkumar)
@@ -76,7 +74,6 @@
   - Links :
     - https://github.com/Sudeep25022000/2048-The-Game-of-Intellectuals
     
-
 - **Connect-3**- A simple game similar to TicTacToe.
   - Maintainers :
     - [Sahil Agarwal](https://github.com/agarwalsahil0210)
@@ -101,13 +98,6 @@
   - Link :
     - https://github.com/adarsh1405/Motion-Detector
 
-- **Govtpolicy_page** - Website for Government policies.
-  - Maintainers :
-     - [Sweta Snigdha Sahoo](https://github.com/swetasahoo29)
-     - [Ankita Satapathy](http://github.com/ankita-04)
-  - Link :
-     - https://github.com/swetasahoo29/Govtpolicy_page
-     
 - **VBEmail** - Voice-based email for visually challenged.
   - Maintainers : 
     - [Subham Sagar Paira](https://github.com/subhamsagar524)
