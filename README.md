@@ -196,3 +196,8 @@
    - Link:
      - https://github.com/SouravBear8850/Sudokugame
     
+- **Image Viewer** - A Image viewer gui.
+   - Maintainer:
+     - [Hritesh Pramanik](https://github.com/Hritesh007)
+   - Link:
+     - https://github.com/Hritesh007/Image-Viewer
