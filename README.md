@@ -200,4 +200,4 @@
    - Maintainer:
      - [Hritesh Pramanik](https://github.com/Hritesh007)
    - Link:
-     - https://github.com/Hritesh007/Image-Viewer.git
+     - https://github.com/Hritesh007/Image-Viewer
