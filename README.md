@@ -162,13 +162,13 @@
   - Link :
     - https://github.com/MadhabaPatra/VisuAlgorithm
     
-- **Backup Management** -A software that works on client/server architecture for extracting backup data copies.
+- **File Encryptor** -A software that protects confidential data from attackers.
   - Maintainers :
     - [Sudeep Rn. Swain](https://github.com/Sudeep25022000)
     - [Aditya Gupta](https://github.com/xcyberpunkx0) 
     - [A S V K Vinayak](https://github.com/ASVKVINAYAK)   
   - Links :
-    - https://github.com/Sudeep25022000/Backup-Manager
+    - https://github.com/Sudeep25022000/File-Encryptor
 
 - **Android Call Dailer** -Simple android app to place calls.
   - Maintainers :
