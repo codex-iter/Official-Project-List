@@ -69,20 +69,6 @@
     - [Sayantan paul](https://github.com/belikesayantan)
   - Links :
     - https://github.com/obli99/wle
-  
-- **Scientific-Calci** - A scientific calculator.
-  &nbsp; ![](https://img.shields.io/badge/Completed-078e32?style=flat-square)  &nbsp; ![](https://img.shields.io/badge/Minor-07046b?style=flat-square)
-  - Maintainers :
-    - [Abhishek Kumar](https://github.com/iamAbhishekkumar)
-  - Links :
-    - https://github.com/iamAbhishekkumar/Scientific-calculator
-
-- **Expense Tracker** - Track every penny you spend.
-  &nbsp; ![](https://img.shields.io/badge/Completed-078e32?style=flat-square)  &nbsp; ![](https://img.shields.io/badge/Minor-07046b?style=flat-square)
-  - Maintainers :
-    - [Nehal Kumar Singh](https://github.com/geekyNehal)
-  - Link :
-    - https://github.com/geekyNehal/ExpenseTrackerApp
 
 - **Motion Detector** - Every Motion Counts
   &nbsp; ![](https://img.shields.io/badge/In--Progress-ef6b1f?style=flat-square)  &nbsp; ![](https://img.shields.io/badge/Minor-07046b?style=flat-square)
@@ -90,14 +76,6 @@
     - [Adarsh Padhi](https://github.com/adarsh1405)
   - Link :
     - https://github.com/adarsh1405/Motion-Detector
-
-- **Govtpolicy_page** - Website for Government policies.
-  &nbsp; ![](https://img.shields.io/badge/In--Progress-ef6b1f?style=flat-square)  &nbsp; ![](https://img.shields.io/badge/Minor-07046b?style=flat-square)
-  - Maintainers :
-     - [Sweta Snigdha Sahoo](https://github.com/swetasahoo29)
-     - [Ankita Satapathy](http://github.com/ankita-04)
-  - Link :
-     - https://github.com/swetasahoo29/Govtpolicy_page
      
 - **VBEmail** - Voice-based email for visually challenged.
   &nbsp; ![](https://img.shields.io/badge/In--Progress-ef6b1f?style=flat-square)  &nbsp; ![](https://img.shields.io/badge/Minor-07046b?style=flat-square)
@@ -139,14 +117,7 @@
     - [Jashaswee Jena](https://github.com/jashasweejena)
   - Link :
     - https://github.com/Parag357/Attendance-Manager
-    
-- **Anime Synopsis** - A simple Python webscraper for finding out the synopsis of a anime.
-  &nbsp; ![](https://img.shields.io/badge/In--Progress-ef6b1f?style=flat-square)  &nbsp; ![](https://img.shields.io/badge/Minor-07046b?style=flat-square)
-  - Maintainers :
-    - [Nishant Choudhary](https://github.com/nishantc7)
-  - Link :
-    - https://github.com/nishantc7/Anime_Synopsis
-    
+        
 - **VisuAlgorithm** - Algorithm Visualizer- A Interactive Online Platform that Visualizes Algorithms.
   &nbsp; ![](https://img.shields.io/badge/In--Progress-ef6b1f?style=flat-square)  &nbsp; ![](https://img.shields.io/badge/Major-fc3c3c?style=flat-square)
   - Maintainers :
@@ -154,15 +125,6 @@
     - [Subham Sagar Paira](https://github.com/subhamsagar524)
   - Link :
     - https://github.com/MadhabaPatra/VisuAlgorithm
-    
-- **Backup Management** -A software that works on client/server architecture for extracting backup data copies.
-  &nbsp; ![](https://img.shields.io/badge/In--Progress-ef6b1f?style=flat-square)  &nbsp; ![](https://img.shields.io/badge/Minor-07046b?style=flat-square)
-  - Maintainers :
-    - [Sudeep Rn. Swain](https://github.com/Sudeep25022000)
-    - [Aditya Gupta](https://github.com/xcyberpunkx0) 
-    - [A S V K Vinayak](https://github.com/ASVKVINAYAK)   
-  - Links :
-    - https://github.com/Sudeep25022000/Backup-Manager
 
 - **Android Call Dailer** -Simple android app to place calls.
   &nbsp; ![](https://img.shields.io/badge/In--Progress-ef6b1f?style=flat-square)  &nbsp; ![](https://img.shields.io/badge/Minor-07046b?style=flat-square)
@@ -247,4 +209,42 @@
    - Link:
      - https://github.com/SouravBear8850/Sudokugame
 
-    
+---
+
+- **Backup Management** -A software that works on client/server architecture for extracting backup data copies.
+  &nbsp; ![](https://img.shields.io/badge/In--Progress-ef6b1f?style=flat-square)  &nbsp; ![](https://img.shields.io/badge/Minor-07046b?style=flat-square)
+  - Maintainers :
+    - [Sudeep Rn. Swain](https://github.com/Sudeep25022000)
+    - [Aditya Gupta](https://github.com/xcyberpunkx0) 
+    - [A S V K Vinayak](https://github.com/ASVKVINAYAK)   
+  - Links :
+    - https://github.com/Sudeep25022000/Backup-Manager
+
+- **Anime Synopsis** - A simple Python webscraper for finding out the synopsis of a anime.
+  &nbsp; ![](https://img.shields.io/badge/In--Progress-ef6b1f?style=flat-square)  &nbsp; ![](https://img.shields.io/badge/Minor-07046b?style=flat-square)
+  - Maintainers :
+    - [Nishant Choudhary](https://github.com/nishantc7)
+  - Link :
+    - https://github.com/nishantc7/Anime_Synopsis
+
+- **Expense Tracker** - Track every penny you spend.
+  &nbsp; ![](https://img.shields.io/badge/Completed-078e32?style=flat-square)  &nbsp; ![](https://img.shields.io/badge/Minor-07046b?style=flat-square)
+  - Maintainers :
+    - [Nehal Kumar Singh](https://github.com/geekyNehal)
+  - Link :
+    - https://github.com/geekyNehal/ExpenseTrackerApp
+  
+- **Scientific-Calci** - A scientific calculator.
+  &nbsp; ![](https://img.shields.io/badge/Completed-078e32?style=flat-square)  &nbsp; ![](https://img.shields.io/badge/Minor-07046b?style=flat-square)
+  - Maintainers :
+    - [Abhishek Kumar](https://github.com/iamAbhishekkumar)
+  - Links :
+    - https://github.com/iamAbhishekkumar/Scientific-calculator
+
+- **Govtpolicy_page** - Website for Government policies.
+  &nbsp; ![](https://img.shields.io/badge/In--Progress-ef6b1f?style=flat-square)  &nbsp; ![](https://img.shields.io/badge/Minor-07046b?style=flat-square)
+  - Maintainers :
+     - [Sweta Snigdha Sahoo](https://github.com/swetasahoo29)
+     - [Ankita Satapathy](http://github.com/ankita-04)
+  - Link :
+     - https://github.com/swetasahoo29/Govtpolicy_page
