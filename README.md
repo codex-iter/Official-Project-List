@@ -18,7 +18,7 @@
 - **PAM** - A Personal Assistant.  &nbsp; ![](https://img.shields.io/badge/In--Progress-ef6b1f?style=flat-square)  &nbsp; ![](https://img.shields.io/badge/Major-fc3c3c?style=flat-square)
   - Maintainers :
     - [Debashish Mishra](https://github.com/Zanark/)
-  -Links :
+  - Links :
     - https://github.com/Zanark/PAM
 
 - **Wallgen** - A wallpaper generator.  &nbsp; ![](https://img.shields.io/badge/In--Progress-ef6b1f?style=flat-square)  &nbsp; ![](https://img.shields.io/badge/Major-fc3c3c?style=flat-square)
