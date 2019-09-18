@@ -53,8 +53,8 @@
   - Links :
     - https://github.com/MartyMiniac/GroupTcpMesenger
 
-- **LinKKaro** - Make All Your Link Together (LinkTree-clone).
-  &nbsp; ![](https://img.shields.io/badge/In--Progress-ef6b1f?style=flat-square)  &nbsp; ![](https://img.shields.io/badge/Minor-07046b?style=flat-square)
+- **LinkC** - Make All Your Link Together (LinkTree-clone).
+  &nbsp; ![](https://img.shields.io/badge/Completed-078e32?style=flat-square)  &nbsp; ![](https://img.shields.io/badge/Minor-07046b?style=flat-square)
   - Maintainers : 
     - [Madhaba Patra](https://github.com/MadhabaPatra)
     - [Pritam Kar](https://github.com/pikaz143)
@@ -68,8 +68,8 @@
     - [Sandip Nayak](https://github.com/SandipNayak)
     - [Sayantan paul](https://github.com/belikesayantan)
   - Links :
-    - Https://GitHub.com/obli99/wle
-    
+    - https://github.com/obli99/wle
+  
 - **Scientific-Calci** - A scientific calculator.
   &nbsp; ![](https://img.shields.io/badge/Completed-078e32?style=flat-square)  &nbsp; ![](https://img.shields.io/badge/Minor-07046b?style=flat-square)
   - Maintainers :
