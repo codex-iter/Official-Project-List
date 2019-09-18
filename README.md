@@ -151,6 +151,8 @@
    - Link:
       - https://github.com/nishantc7/drive_dumper
 
+---
+
 - **Hangman-Game** - A simple hangman game with GUI.
   &nbsp; ![](https://img.shields.io/badge/In--Progress-ef6b1f?style=flat-square)  &nbsp; ![](https://img.shields.io/badge/Minor-07046b?style=flat-square)
   - Maintainers :
