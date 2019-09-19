@@ -42,12 +42,12 @@
     - https://github.com/MartyMiniac/GroupTcpMesenger
 
 
-- **LinKKaro** - Make All Your Link Together (LinkTree-clone)
+- **LinkC** - Make All Your Link Together
   - Maintainers : 
     - [Madhaba Patra](https://github.com/MadhabaPatra)
     - [Pritam Kar](https://github.com/pikaz143)
   - Links :
-    - https://github.com/MadhabaPatra/Link-Aggregator
+    - https://github.com/MadhabaPatra/LinkC
 - **Price-Notifier** - A wishlist extension which notifies price changes.
   - Maintainers :
     - [Jyoti Jayadeep](https://github.com/obli99)
