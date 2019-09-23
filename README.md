@@ -115,6 +115,7 @@
   - Maintainers :
     - [Abhishek Kumar](https://github.com/iamAbhishekkumar)
     - [Sahil Agarwal](https://github.com/agarwalsahil0210)
+    - [Suvojit Barrick](https://github.com/SuvojitBarick)
   - Link :
     - https://github.com/iamAbhishekkumar/insta_hastag_maker
 
