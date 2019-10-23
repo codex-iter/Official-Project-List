@@ -136,7 +136,6 @@
 - **Scrum-Management** - A website beneficial for amateurs entering into Codex to make their tasks easier.
   - Maintainers :
     - [Harshita Raj](https://github.com/Harshita248)
-    - [Kajal Kumari](https://github.com/kajalkumaribps)
     - [Sweta Snigdha Sahoo](https://github.com/swetasahoo29)
     - [Ankita Satapathy](http://github.com/ankita-04)
   - Link :
