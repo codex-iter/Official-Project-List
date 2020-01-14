@@ -201,3 +201,10 @@
      - [Hritesh Pramanik](https://github.com/Hritesh007)
    - Link:
      - https://github.com/Hritesh007/Image-Viewer
+     
+- **Omniscient Eye** - A model which checks whether students are paying attention to the lecture or not. 
+  - Maintainers : 
+    - [Omm Mishra](https://github.com/ommmishra/)
+    - [Debashish Mishra](https://github.com/Zanark)        
+  - Links : 
+    - https://github.com/Zanark/Omniscient-Eye
