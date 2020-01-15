@@ -95,6 +95,7 @@
 - **Motion Detector** - Every Motion Counts
   - Maintainers :
     - [Adarsh Padhi](https://github.com/adarsh1405)
+    - [Gyana Sahoo](https://github.com/TheSpeedX)
   - Link :
     - https://github.com/adarsh1405/Motion-Detector
 
@@ -144,7 +145,6 @@
 - **Attendance Manager** - A blockchain integrated attendance manager with in-built analytics.
   - Maintainers :
     - [Parag Bhattacharjee](https://github.com/parag357)
-    - [Gyana Sahoo](https://github.com/TheSpeedX)
     - [Jashaswee Jena](https://github.com/jashasweejena)
   - Link :
     - https://github.com/Parag357/Attendance-Manager
