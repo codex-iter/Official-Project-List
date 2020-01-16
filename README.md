@@ -116,9 +116,8 @@
   - Maintainers :
     - [Abhishek Kumar](https://github.com/iamAbhishekkumar)
     - [Sahil Agarwal](https://github.com/agarwalsahil0210)
-    - [Suvojit Barrick](https://github.com/SuvojitBarick)
   - Link :
-    - https://github.com/iamAbhishekkumar/insta_hastag_maker
+    - https://github.com/SuvojitBarick/HasiGen
 
 - **Telegram Bot** - A new Telegram Bot in place of Rose to handle things better.
   - Maintainers :
