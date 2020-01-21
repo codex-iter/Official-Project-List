@@ -105,10 +105,9 @@
   - Links :
     - https://github.com/subhamsagar524/VBEmail
 
-- **Chess Game** - Chess game to play using server.
+- **Chess Game** - Chess gameplay between two users offline.
   - Maintainers :
     - [Ayush Kejariwal](https://github.com/KejariwalAyush)
-    - [Rijul Das](https://github.com/RIJULDAS)
   - Link :
     - https://github.com/KejariwalAyush/Chess-Game
     
@@ -207,3 +206,11 @@
     - [Debashish Mishra](https://github.com/Zanark)        
   - Links : 
     - https://github.com/Zanark/Omniscient-Eye
+    
+- **Multimedia Steganography** - To embed or hide information into another multimedia file.
+  - Maintainers :
+    - [Ayush Kejariwal](https://github.com/KejariwalAyush)
+    - [Shubhanjan Dash](https://github.com/monkas24x7)
+    - [Sourav Bera](https://github.com/SouravBear8850)
+  - Link :
+    - https://github.com/KejariwalAyush/Information-Security-using-Multi-Media-Steganography
