@@ -45,7 +45,7 @@
 - **LinkC** - Make All Your Link Together
   - Maintainers : 
     - [Madhaba Patra](https://github.com/MadhabaPatra)
-    - [Pritam Kar](https://github.com/pikaz143)
+    - [Pritam Kar](https://github.com/pritam047)
   - Links :
     - https://github.com/MadhabaPatra/LinkC
 - **Price-Notifier** - A wishlist extension which notifies price changes.
