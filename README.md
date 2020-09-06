@@ -214,3 +214,8 @@
     - [Sourav Bera](https://github.com/SouravBear8850)
   - Link :
     - https://github.com/KejariwalAyush/Information-Security-using-Multi-Media-Steganography
+- **Youtube Terminal App** - A Terminal UI to use YouTube. Listen to music and watch video
+  - Maintainers :
+    - [Sayantan Paul](https://github.com/belikesayantan)
+  - Link :
+    - https://github.com/belikesayantan/youtube-tui
